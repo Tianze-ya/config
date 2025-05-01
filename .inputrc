@@ -1,0 +1,10 @@
+# case insensitive tab completion
+set completion-ignore-case On
+
+# show all available completions
+set show-all-if-ambiguous on
+
+# set menu-complete-display-prefix on
+# TAB:menu-complete
+
+set mark-symlinked-directories on
